@@ -1,0 +1,8 @@
+Main objective:
+Create both a manual and autonomous method of composing a 12 tone piece, with
+the following:
+A melody
+Supporting/complimenting chords
+A introduction and concluding section that may or may not be 
+related thematically to the rest of the piece
+A way to generate a name for the piece
